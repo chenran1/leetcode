@@ -14,31 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="两数之和.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/两数之和.py">
+      <file leaf-file-name="3_无重复字符的最长字符串.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_无重复字符的最长字符串.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="两数相加.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/两数相加.py">
+      <file leaf-file-name="4_寻找有序数组的中位数.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_寻找有序数组的中位数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="50" column="16" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="无重复字符的最长字符串.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/无重复字符的最长字符串.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            <state relative-caret-position="45">
+              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -64,6 +54,8 @@
         <option value="$PROJECT_DIR$/两数之和.py" />
         <option value="$PROJECT_DIR$/两数相加.py" />
         <option value="$PROJECT_DIR$/无重复字符的最长字符串.py" />
+        <option value="$PROJECT_DIR$/寻找有序数组的中位数.py" />
+        <option value="$PROJECT_DIR$/4_寻找有序数组的中位数.py" />
       </list>
     </option>
   </component>
@@ -284,6 +276,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/无重复字符的最长字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/寻找有序数组的中位数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/两数之和.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -292,10 +300,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/无重复字符的最长字符串.py">
+    <entry file="file://$PROJECT_DIR$/3_无重复字符的最长字符串.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_寻找有序数组的中位数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding />
         </state>
       </provider>
