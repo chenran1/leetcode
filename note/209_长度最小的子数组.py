@@ -15,5 +15,25 @@
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 """
 class Solution:
-    def minSubArrayLen(self, s: int, nums: list[int]) -> int:
-        return
+    def minSubArrayLen(self, s: int, nums):
+        left = 0
+        lens = float("inf")
+        value = 0
+        right = 0
+        while right<len(nums) and left<=right:
+            value += nums[right]
+            if value >= s:
+                print(value)
+                print("left:"+str(left))
+                lens = min(lens,right - left +1)
+                value -= nums[left]
+                left += 1
+
+                print(str(lens)+"+"+str(value))
+            else:
+
+                right += 1
+                print(lens)
+        return lens
+
+print(Solution.minSubArrayLen(Solution,7,[2,3,1,2,4,3]))
